@@ -2,6 +2,7 @@
   <h2 style="font-family: 'Helvetica', sans-serif;">
     ★¸.•☆  Hi, I'm Marina Lima! Seja bem vindo!  ★.•☆•.★
     <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+    <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
   </h2>
 </div>
 
